@@ -9,6 +9,18 @@ def fasdfaun(x):
 print("aenfkajbfbfs")
       
 fun(23)
+print("aljekas f")
+fun(3423)
+      
+fun(234334)
+
+dun("ksjhs")     
+      
+fun(23)
+        
+print("aenfkajbfbfs")
+      
+fun(23)
 
 print("aljekas f")
 fun(3423)
@@ -68,6 +80,33 @@ fun(3423)
 fun(234334)
 
 dun("ksjhs")     
+      
+fun(23)
+
+dun("ksjhs")     
+      
+fun(23)
+      
+     
+
+print("aljekas f")
+fun(3423)
+      
+fun(234334)
+print("aenfkajbfbfs")
+      
+fun(23)
+
+print("aljekas f")
+fun(3423)
+      
+fun(234334)
+
+dun("ksjhs")     
+      
+fun(23)
+        
+print("aenfkajbfbfs")
       
 fun(23)
 
