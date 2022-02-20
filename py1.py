@@ -77,7 +77,7 @@ fun(23)
 print("aljekas f")
 fun(3423)
       
-fun(234334)
+fun(234345634563334)
 
 dun("ksjhs")     
       
@@ -106,7 +106,7 @@ dun("ksjhs")
       
 fun(23)
         
-print("aenfkajbfbfs")
+print("aenfkajbghghgfbfs")
       
 fun(23)
 
@@ -132,7 +132,7 @@ fun(23)
 print("aljekas f")
 fun(3423)
       
-fun(234334)
+fun(23434353534)
 
 dun("ksjhs")     
       
