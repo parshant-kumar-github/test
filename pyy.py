@@ -1,2 +1,0 @@
-print("sefs")
-print("scscada")
